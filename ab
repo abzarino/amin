@@ -1,8 +1,6 @@
-{
-  "لینک": "https://rubika.ir/epido_app",
-  "نوع": "رفتن",
+{ "نوع": "رفتن",
   "ورژن": "4",
-  "لینک هدایت": "https://rubika.ir/epido_app",
+  "لینک هدایت": "rubika://l.rubika.ir/epido_app",
   "دیالوگ": "دلخواه*",
   "متن": "برنامه رو به صورت مستقیم دانلود کنید.",
   "رفتن1": "https://rubika.ir/epido_app",
