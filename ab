@@ -1,9 +1,10 @@
-{ "نوع": "رفتن",
+{
+  "نوع": "رفتن",
   "ورژن": "4",
-  "لینک هدایت": "rubika://l.rubika.ir/epido_app",
+  "لینک هدایت": "rubika://l.rubika.ir/joinc/FIHCFEE0DVLKMMQIQGTKEAYULUURCKBS",
   "دیالوگ": "دلخواه*",
   "متن": "برنامه رو به صورت مستقیم دانلود کنید.",
-  "رفتن1": "https://rubika.ir/epido_app",
+  "رفتن1": "rubika://l.rubika.ir/joinc/FIHCFEE0DVLKMMQIQGTKEAYULUURCKBS",
   "دیالوگ فرایندی": "روشن*",
   "خرید": "فعالی",
   "متن آپدیت": "اضافه شدن بخش های جدید\n\nمانند امتیاز و نظر 5 ستاره بدهید تا به حال خود رها کن ",
