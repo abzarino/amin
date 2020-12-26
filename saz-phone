@@ -1,6 +1,6 @@
 {
-  "dialogBtnExtraTxt": "چه خبر ؟",
-  "dialogBtnExtraClick": "خروج",
+  "dialogBtnExtraTxt": "What\u0027s new ?",
+  "dialogBtnExtraClick": "exit",
   "dialogBtnMainTxt": "تماشا",
   "dialogOption": "update",
   "openLinkMain": "https://epido.ir/AMIN_url.html",
@@ -16,6 +16,6 @@
   "dialogBtnExtra": "false",
   "isCancelable": "true",
   "email": "mohamadaminbn@gmail.com",
-  "isOneTimeKey": "شماره ساز",
+  "isOneTimeKey": "phone saz818633",
   "newVersion": "1.0"
 }
