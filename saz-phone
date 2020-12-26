@@ -1,1 +1,21 @@
-
+{
+  "dialogBtnExtraTxt": "چه خبر ؟",
+  "dialogBtnExtraClick": "خروج",
+  "dialogBtnMainTxt": "تماشا",
+  "dialogOption": "update",
+  "openLinkMain": "https://epido.ir/AMIN_url.html",
+  "currVersion": "1.0",
+  "openLinkExtra": "null",
+  "dialogBtnMainClick": "browser",
+  "dialogSubtitle": "آموزش برنامه رو ببین رو ببین تا بتونی با برنامه بدون مشکل کار کنی.",
+  "isOneTime": "true",
+  "dialogBtnMain": "true",
+  "developer": "XUDi2b0aQeceEDeWRFN1uz3HOek1",
+  "alertOption": "dialog",
+  "dialogTitle": "آموزش برنامه رو ببین",
+  "dialogBtnExtra": "false",
+  "isCancelable": "true",
+  "email": "mohamadaminbn@gmail.com",
+  "isOneTimeKey": "شماره ساز",
+  "newVersion": "1.0"
+}
