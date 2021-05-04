@@ -9,5 +9,49 @@
     "id": "0",
     "type": "روبیکا",
     "day": "14000214"
+  },
+  {
+    "name": "APPIKO",
+    "about": "کانال پشتیبانی سایت appiko.ir",
+    "link": "https://rubika.ir/appikoteam",
+    "img": "https://s4.uupload.ir/files/img_20210504_160447_282_wz1c.jpg",
+    "vip": true,
+    "das": "سایر",
+    "id": "1",
+    "type": "روبیکا",
+    "day": "14000514"
+  },
+  {
+    "name": "APPIKO",
+    "about": "کانال پشتیبانی سایت appiko.ir",
+    "link": "https://gap.im/APPIKO",
+    "img": "https://s4.uupload.ir/files/img_20210504_160447_282_wz1c.jpg",
+    "vip": true,
+    "das": "سایر",
+    "id": "1",
+    "type": "گپ",
+    "day": "14000514"
+  },
+  {
+    "name": "APPIKO",
+    "about": "کانال پشتیبانی سایت appiko.ir",
+    "link": "https://instagram.com/APPIKO.ir",
+    "img": "https://s4.uupload.ir/files/img_20210504_160447_282_wz1c.jpg",
+    "vip": true,
+    "das": "سایر",
+    "id": "1",
+    "type": "اینستاگرام",
+    "day": "14000514"
+  },
+  {
+    "name": "کلیپ و تکست",
+    "about": "بهترین کلیپ ها و چالش های خفن از بهترین سلبریتی ها",
+    "link": "https://rubika.ir/clip_texter",
+    "img": "https://s4.uupload.ir/files/img_20210504_160437_310_uihd.jpg",
+    "vip": true,
+    "das": "سایر",
+    "id": "1",
+    "type": "روبیکا",
+    "day": "14000514"
   }
 ]
